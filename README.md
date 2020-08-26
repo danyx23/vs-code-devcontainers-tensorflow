@@ -14,6 +14,8 @@ The configuration for which image to use and which extensions to run inside the 
 
 More information is here: https://code.visualstudio.com/docs/remote/containers#_getting-started
 
+This setup has only been briefly tested and I'm not sure if you can get GPU support yet using this setup. It should be possible in theory but I haven't tested it.
+
 ## How to use this
 
 1. Clone this repo to your local disk
